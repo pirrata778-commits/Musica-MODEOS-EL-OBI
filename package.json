@@ -1,0 +1,26 @@
+{
+  "name": "MODEOS EL OBI MUSICA",
+  "version": "1.0.0",
+  "description": "Bot de música Modeos EL Obi Música",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music",
+    "modeos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discord-player/extractor": "^0.5.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-player": "^6.7.1",
+    "discord.js": "^14.18.0",
+    "ffmpeg-static": "^5.2.0",
+    "generate-discord-authtoken": "^1.0.0",
+    "mediaplex": "^0.0.9"
+  }
+}

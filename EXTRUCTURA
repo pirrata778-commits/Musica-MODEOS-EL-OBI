@@ -1,0 +1,2 @@
+npm init -y
+npm install discord.js discord-player @discord-player/extractor ffmpeg-static mediaplex generate-discord-authtoken
